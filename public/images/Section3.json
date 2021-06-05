@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "title": "17'' Ekran Kinowy",
+        "description": "Nowy wyświetlacz centralny o wysokiej jasności oraz rozdzielczości 2200x1300 z doskonałym odwzorowaniem kolorów, wyjątkową czułością to najlepszy ekran do oglądania w każdych warunkach.",
+        "image": "tesla1.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Koncentracja na jeździe",
+        "description": "Koncentracja na jeździe: bez dźwigni, bez zmiany biegów. Model S to najlepszy samochód dla kierowcy jak i pasażera.",
+        "image": "tesla2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Idealne warunki",
+        "description": "Czysty, mocny, ale niewidoczny klimatyzator. Trójstrefowa regulacja temperatury, wentylowane przednie fotele i filtracja HEPA w standardzie.",
+        "image": "tesla3.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Przeprojektowany drugi rząd",
+        "description": "Miejsce dla trzech dorosłych, z dodatkową przestrzenią na nogi i nad głową, chowanym podłokietnikiem ze zintegrowanym schowkiem i bezprzewodową ładowarką.",
+        "image": "tesla4.jpg"
+    }
+
+
+]
